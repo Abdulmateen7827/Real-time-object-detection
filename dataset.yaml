@@ -1,0 +1,8 @@
+names:
+- without_mask
+- mask_weared_incorrect
+- with_mask
+nc: 3
+path: ..
+train: /Users/abdulmateen/Downloads/archive/train
+val: /Users/abdulmateen/Downloads/archive/valid

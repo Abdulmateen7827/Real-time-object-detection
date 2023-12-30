@@ -1,0 +1,16 @@
+# Misc
+.DS_Store
+*.log
+Thumbs.db
+desktop.ini
+
+
+# Dependencies
+.venv/
+venv/
+env/
+
+.env
+.*.env
+!.env.example
+runs/
